@@ -117,6 +117,7 @@ def videoProcessor(meta, outputDir):
     #--------------------------------  
     # Temporaly file definitions.
     #--------------------------------
+    os.makedirs("./temp",exist_ok=True)
     tmp_video_path = f"./temp/tmp_{resourceID}.mp4"   # Work file for output video.
     tmp_json_path  = f"./temp/tmp_{resourceID}.json"  # Recognision result from GDB analyzer server for debug.
     
