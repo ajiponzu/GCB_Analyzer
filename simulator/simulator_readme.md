@@ -6,7 +6,7 @@ The following functions are implemented and will work if executed in order from 
 ## Simulator of signal waveforms
 * pulseFunc()
 
-Define a signal to drive a light source
+Define a signal to drive a light sources.
 
 * showSignalStack()
 * showMatrixSignalStack()
@@ -17,19 +17,19 @@ Graph the signal waveforms
 
 Save the results in 'figs/signals/*.html'.
 
-## Exposure Simulators 
+## Exposure simulators 
  * buildExposureFigure()
  * showExposureSimulation()
  
 Graphs the exposure simulation and saves the result in 'figs/exposure/*.html'.
 
-## BeaconSimulators 
+## Beacon simulators 
  * L_BeaconSimulator()
  * CL_BeaconSimulator()
  * M_BeaconSimulator()
  * CM_BeaconSimulator()
  
-Graph exposure simulations by Beacon type and save the results in 'figs/simulatte/*.html'.
+Graph exposure simulations by Beacon type and save the results in 'figs/simulate/*.html'.
 
 ## Time detection accuracy analysis
 * analyzeBeacon()
