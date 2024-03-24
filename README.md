@@ -49,5 +49,5 @@ When client.py is executed with this definition file as an argument, it analyzes
 #### In "./simulator" directory,
 >The simulator is python code written in Jupyter Lab Notebook format.
 
-See simulator/readme_simulator.md for details.
+>See simulator/readme_simulator.md for details.
 
