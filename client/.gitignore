@@ -1,9 +1,8 @@
-temp
-!.gitignore
 resource
 makefile.org
 resource_builder.py
 result_analyzer.ipynb
 sandbox.ipynb
+!.gitignore
 
 
